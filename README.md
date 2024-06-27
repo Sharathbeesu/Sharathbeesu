@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **DSA,styled components**
 
-- 👯 I’m looking to collaborate on **BloodOasis project**
-
-- 🤝 I’m looking for help with **Chatbot Song Recommender System**
-
 - 📫 How to reach me **beesusharath@gmail.com**
 
 - ⚡ Fun fact **I am funny**
